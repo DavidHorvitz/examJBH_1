@@ -1,0 +1,25 @@
+{
+  "name": "examjbh_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidHorvitz/examJBH_1.git"
+  },
+  "author": "david horvitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidHorvitz/examJBH_1/issues"
+  },
+  "homepage": "https://github.com/DavidHorvitz/examJBH_1#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "pg": "^8.9.0",
+    "sequelize": "^6.28.0"
+  }
+}
